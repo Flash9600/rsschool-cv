@@ -1,24 +1,24 @@
- #_Trefilov Dmitriy_
+  # _Trefilov Dmitriy_
 
- ##Contacts:
+ ## Contacts:
  
     -Izhevsk, Russia_
     -E-mail: trefilovdimarus@gmail.com; :email:
     -Telegram: @Flash9600
    
- ##Summary:
+ ## Summary:
  
     I want to change the field of activity, to learn programming and start developing as a Junior FrontEnd Developer
     
- ##Skils:
+ ## Skils:
  
     -HTML/CSS Basic
     -JavaScript Basic
     
- ##Education:
+ ## Education:
  
     -2014-2018 Higher technical education
     
- ##English level:
+ ## English level:
  
     -My English level is A2
